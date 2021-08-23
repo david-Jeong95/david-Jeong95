@@ -11,6 +11,7 @@
 ## 🛠Skills🛠
 
 - Language: <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=black"/>
+- Backend: <img src="https://img.shields.io/badge/Node.jS-green?style=flat-square&logo=Node.js&logoColor=white"/>
 
 
 
