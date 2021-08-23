@@ -17,7 +17,7 @@
 - DB : <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=black"/>
 
 
-[![david-Jeong95's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-Jeong95)](https://github.com/anuraghazra/github-readme-stats)
+[![david-Jeong95's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-Jeong95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-Jeong95)](https://github.com/anuraghazra/github-readme-stats)
 
 
