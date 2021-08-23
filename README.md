@@ -1,6 +1,13 @@
 ## About me
 ---
 
+### 항상 긍정적인 마인드의 개발자
+
+### 소통을 중요시하는 개발자
+
+### 배움을 좋아하는 개발자
+
+- Contact: point_right wijeong@gmail.com point_left
 <!--
 **david-Jeong95/david-Jeong95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
