@@ -15,7 +15,7 @@
 - Language: <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=black"/>
 - Backend: <img src="https://img.shields.io/badge/Node.jS-green?style=flat-square&logo=Node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Express-skyblue?style=flat-square&logo=Express&logoColor=black"/>
 - DB: <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=black"/>
-- ETC: <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/>
+- ETC: <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Git&logoColor=white"/>
 
 
 [![david-Jeong95's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-Jeong95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
