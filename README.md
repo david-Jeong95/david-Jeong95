@@ -13,7 +13,7 @@
 ## 🛠Skills🛠
 
 - Language: <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=black"/>
-- Backend: <img src="https://img.shields.io/badge/Node.jS-green?style=flat-square&logo=Node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Express-skyblue?style=flat-square&logo=Express&logoColor=black"/>
+- Backend: <img src="https://img.shields.io/badge/Node.jS-green?style=flat-square&logo=Node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Express-skyblue?style=flat-square&logo=Express&logoColor=black"/> <img src="https://img.shields.io/badge/Sequelize-skyblue?style=flat-square&logo=Sequelize&logoColor=black"/>
 - DB: <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=black"/>
 - ETC: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
 
