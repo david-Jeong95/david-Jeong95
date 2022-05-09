@@ -14,7 +14,7 @@
 ## 🛠Skills🛠
 
 - Language: <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=black"/>
-- Backend: <img src="https://img.shields.io/badge/Node.jS-green?style=flat-square&logo=Node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Express-skyblue?style=flat-square&logo=Express&logoColor=black"/> <img src="https://img.shields.io/badge/Elasticsearch-skyblue?style=flat-square&logo=Elasticsearch&logoColor=black"/> 
+- Backend: <img src="https://img.shields.io/badge/Node.jS-green?style=flat-square&logo=Node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Express-skyblue?style=flat-square&logo=Express&logoColor=black"/> <img src="https://img.shields.io/badge/Elasticsearch-yellow?style=flat-square&logo=Elasticsearch&logoColor=black"/> 
 - DB: <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/Sequelize-blue?style=flat-square&logo=Sequelize&logoColor=white"/>
 - Deploy: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=orange"/> 
 - ETC: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
